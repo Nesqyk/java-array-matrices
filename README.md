@@ -10,7 +10,7 @@ This repository contains a collection of Java code examples discussed during our
 3. Run the following command:
 
     ```bash
-    git clone https://github.com/your-username/your-repository-name.git
+    git clone https://github.com/Nesqyk/java-array-matrices.git
     ```
 
 4. Navigate into the project folder:
