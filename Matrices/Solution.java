@@ -5,8 +5,7 @@ import java.util.Scanner;
 public class Solution {
 
     public static void main(String[] args) {
-    
-        squareMatrixSum();
+        rectangleMatrix();
     }
 
     // Method One for Problem 1. Rectangular Matrix
